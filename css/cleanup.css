@@ -1,1 +1,16 @@
 /* write your override styles here */
+#title{
+    border-color: aqua;
+    height: auto;
+    width:auto;
+    background-position: 300px;
+    border-radius: 3%;
+    text-shadow: 200px;
+}
+#wall{
+    height: fit-content;
+    width: fit-content;
+    border-radius: 3%; 
+    padding-bottom: 4%; 
+    padding-top: 4%;
+}
